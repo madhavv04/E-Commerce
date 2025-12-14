@@ -1,0 +1,7 @@
+Name:m
+Email:m@123gmail.com
+Password:7fb0caec0621ca12a052adf4b378731869803a704cd12b32140635c33a92c771
+
+--- Shopping Bill ---
+Jeans x 2 = 400
+Total = 400
