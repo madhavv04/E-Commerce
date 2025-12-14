@@ -38,13 +38,21 @@ All user data and billing details are stored using **file handling**.
 ## 📂 Project Structure
 
 E_Commerce_Project/
+
 │
+
 ├── main.py          # Main application flow
+
 ├── register.py      # User registration logic
+
 ├── login.py         # User login logic
+
 ├── product.py       # Product class
+
 ├── shopping.py      # Cart and billing system
+
 │
+
 └── users/           # Stores user files (email.txt)
 
 
